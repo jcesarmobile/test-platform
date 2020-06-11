@@ -1,0 +1,24 @@
+{
+  "name": "@jcesarmobile/test-platform",
+  "version": "1.0.0",
+  "description": "just a test platform",
+  "scripts": {
+    "add": "echo add",
+    "copy": "echo copy",
+    "update": "echo update",
+    "sync": "echo sync"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcesarmobile/test-platform.git"
+  },
+  "keywords": [
+    "capacitor"
+  ],
+  "author": "jcesarmobile",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jcesarmobile/test-platform/issues"
+  },
+  "homepage": "https://github.com/jcesarmobile/test-platform#readme"
+}
