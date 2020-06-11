@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "just a test platform",
   "scripts": {
-    "postinstall": "add",
-    "add": "echo add",
+    "postinstall": "echo add",
     "copy": "echo copy",
     "update": "echo update",
     "sync": "echo sync"
