@@ -3,10 +3,11 @@
   "version": "1.0.0",
   "description": "just a test platform",
   "scripts": {
-    "postinstall": "echo add",
-    "copy": "echo copy",
-    "update": "echo update",
-    "sync": "echo sync"
+    "cap:add": "echo add",
+    "cap:copy": "echo copy",
+    "cap:update": "echo update",
+    "cap:sync": "echo sync",
+    "cap:open": "echo open"
   },
   "repository": {
     "type": "git",
