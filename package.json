@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "just a test platform",
   "scripts": {
-    "cap:add": "echo add",
-    "cap:copy": "echo copy",
-    "cap:update": "echo update",
-    "cap:sync": "echo sync",
-    "cap:open": "echo open"
+    "capacitor:add": "echo add",
+    "capacitor:copy": "echo copy",
+    "capacitor:update": "echo update",
+    "capacitor:sync": "echo sync",
+    "capacitor:open": "echo open"
   },
   "repository": {
     "type": "git",
